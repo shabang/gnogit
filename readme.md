@@ -22,7 +22,7 @@ Repo
 A voir
 ===
 Changement passphrase
-
+Localisation config
 
 Documentation GIT
 ===
