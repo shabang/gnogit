@@ -30,10 +30,19 @@ Repo
                 |
   Modification -+
   
+- Attention si git commit -m "message" -a vs add/commit
+- Attention à l'usage de git rm
+- Deux cas de suppressions : 
+
+    - Local & distant
+    - Distant seulement
+
+
 A voir
 ===
-Changement passphrase
-Localisation config
+- Changement passphrase
+- Localisation config
+- PHPStorm
 
 Documentation GIT
 ===
