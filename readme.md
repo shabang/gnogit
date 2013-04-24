@@ -34,7 +34,7 @@ Repo
 - Attention à l'usage de git rm
 - Deux cas de suppressions : 
 
-    - Local & distant
+    - Local & distant     git rm
     - Distant seulement
 
 
