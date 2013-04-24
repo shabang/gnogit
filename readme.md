@@ -38,12 +38,18 @@ Repo
     - Distant seulement   git rm --cached xxx 
 
 - le rm nécessite un commit et un push
+- git log pour l'historique
+- git diff (xxx)
+
+- git checkout pour revenir en arrière sur un code ou un commit
+- A ne pas utiliser si poussé
 
 A voir
 ===
 - Changement passphrase
 - Localisation config
 - PHPStorm
+- git revert
 
 Documentation GIT
 ===
