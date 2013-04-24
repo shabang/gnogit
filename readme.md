@@ -34,9 +34,10 @@ Repo
 - Attention à l'usage de git rm
 - Deux cas de suppressions : 
 
-    - Local & distant     git rm
-    - Distant seulement
+    - Local & distant     git rm xxx
+    - Distant seulement   git rm --cached xxx 
 
+- le rm nécessite un commit et un push
 
 A voir
 ===
