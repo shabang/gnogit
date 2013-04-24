@@ -42,7 +42,10 @@ Repo
 - git diff (xxx)
 
 - git checkout pour revenir en arrière sur un code ou un commit
-- A ne pas utiliser si poussé
+- A ne pas utiliser si poussé !?
+
+- Le checkout va créer une branche
+- Si checkout pour retrouver log alors : git log master
 
 A voir
 ===
