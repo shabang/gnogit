@@ -19,6 +19,17 @@ Repo
 - git add readme.md
 - git commit -m "Message"
 
+- git config --global user.name Gildas
+- git config --global user.email g.noel@ackwa.fr
+
+- git branch pour lister branches dont la courante
+
+- git remote add …. pour déclarer la cible
+
+- Création --> add -> commit --> push
+                |
+  Modification -+
+  
 A voir
 ===
 Changement passphrase
