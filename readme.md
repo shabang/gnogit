@@ -46,11 +46,4 @@ A voir
 
 Documentation GIT
 ===
-Create a new repository on the command line
-
-    git remote add origin git@github.com:krismas/gnogit.git
-    git push -u origin master
-    Push an existing repository from the command line
-    
-    git remote add origin git@github.com:krismas/gnogit.git
-    git push -u origin master
+Create a new repository on the command line : 
